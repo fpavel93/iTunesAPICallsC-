@@ -1,0 +1,10 @@
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\bin\Debug\iTunesAPICalls.exe.config
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\bin\Debug\iTunesAPICalls.exe
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\bin\Debug\iTunesAPICalls.pdb
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\bin\Debug\Newtonsoft.Json.dll
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\bin\Debug\Newtonsoft.Json.xml
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\obj\Debug\iTunesAPICalls.csprojAssemblyReference.cache
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\obj\Debug\iTunesAPICalls.csproj.CoreCompileInputs.cache
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\obj\Debug\iTunesAPICalls.csproj.CopyComplete
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\obj\Debug\iTunesAPICalls.exe
+C:\Users\fpave\source\repos\iTunesAPICalls\iTunesAPICalls\obj\Debug\iTunesAPICalls.pdb
